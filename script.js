@@ -7,6 +7,6 @@ function AccioJob() {
     alert(arguments.callee.name);
 }
 
-// Calling the functions
+
 functionName(); 
 AccioJob();
